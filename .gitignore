@@ -1,0 +1,7 @@
+# Extra Data and Script Files
+*.xlsx
+*.py
+best_model.pth
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
