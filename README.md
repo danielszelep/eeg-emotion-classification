@@ -1,6 +1,6 @@
 # EEG Emotion Classification
 
-This repository contains a project aimed at building a classification model using sample filtered EEG data. The primary goal is to predict emotional states (Negative, Neutral, Positive) of an individual based on feature-extracted EEG signals. All the implementation details and analysis are contained within the Jupyter Notebook `eeg_analysis.ipynb`.
+This repository contains Python scripts in a Jupyter Notebook aimed at building a classification model using sample filtered EEG data. The primary goal is to predict emotional states (Negative, Neutral, Positive) of an individual based on feature-extracted EEG signals. All the implementation details and analysis are contained within the notebook `eeg_analysis.ipynb`.
 
 ## File Directory
 ```
